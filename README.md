@@ -32,8 +32,3 @@ A smart contract-powered decentralized marketplace where users can list and buy 
    npm start
    ```
 
-## Technologies Used
-- Solidity
-- Hardhat
-- React
-- Web3.js
